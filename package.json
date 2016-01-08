@@ -1,0 +1,22 @@
+{
+  "name": "fis-parser-jdists-demo",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "fis3": "^3.3.1",
+    "fis-parser-jdists": "^1.0.3"
+  },
+  "dependencies": {},
+  "scripts": {
+    "debug": "fis3 release qa",
+    "release": "fis3 release pt"
+  },
+  "description": "派派 H5",
+  "main": "fis-conf.js",
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.17paipai.cn/zswang/paipaih5.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
