@@ -11,7 +11,6 @@
     "debug": "fis3 release qa",
     "release": "fis3 release pt"
   },
-  "description": "派派 H5",
   "main": "fis-conf.js",
   "repository": {
     "type": "git",
